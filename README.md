@@ -18,5 +18,11 @@
 
 # Resultado
 <span>
-    <image height="500px"src="https://julianocustodiosite.files.wordpress.com/2017/05/ezgif-com-gif-maker1.gif"/>
+    <b>Android</b>
+    <br/><image height="500px"src="https://julianocustodiosite.files.wordpress.com/2017/05/ezgif-com-gif-maker1.gif" />
+</span>
+
+<span>
+    <b>iOS</b>
+    <br/><image height="500px"src="https://julianocustodiosite.files.wordpress.com/2017/05/ezgif-com-gif-maker-11.gif" />
 </span>
